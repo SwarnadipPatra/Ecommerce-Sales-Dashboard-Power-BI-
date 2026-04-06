@@ -58,8 +58,6 @@ Contains:
 
 ## 📸 Dashboard Screenshot
 
-> ⚠️ Make sure your image name is `dashboard.png` and placed in the same folder
-
 <img width="1332" height="746" alt="dashboard" src="https://github.com/user-attachments/assets/56ecd933-242b-40c1-af1d-a25c1af48e33" />
 
 
